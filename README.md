@@ -33,7 +33,7 @@ A smart word recommendation system that suggests the most probable next words ba
 
 ## Corpus Flexibility
 
---A default corpus is provided for demonstration purposes, but the system is designed to be corpus-agnostic. You can upload and integrate any other text corpus of your choice for training and generating recommendations, making it highly adaptable to different domains
+A default corpus is provided for demonstration purposes in the corpus.txt file, but the system is designed to be corpus-agnostic. You can upload and integrate any other text corpus of your choice for training and generating recommendations, making it highly adaptable to different domains.
 
 ## Installation
 
